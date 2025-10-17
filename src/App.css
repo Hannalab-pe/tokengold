@@ -1,0 +1,10 @@
+/* C:/Users/Usuario/Desktop/nombre-del-proyecto/src/index.css */
+
+@import "tailwindcss"; /* <--- This is the correct way */
+
+/*
+   DO NOT use the old directives like:
+   @tailwind base;
+   @tailwind components;
+   @tailwind utilities;
+*/
